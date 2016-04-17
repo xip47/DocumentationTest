@@ -11,9 +11,8 @@ Documentación General
    :caption: Contenido General
    :name: masterIndex
    :maxdepth: 2
-   :glob:
       
-   content/*
+   content/django
 
 Indices and tables
 ==================
